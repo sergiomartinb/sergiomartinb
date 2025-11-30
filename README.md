@@ -1,58 +1,97 @@
-# Hi there, I'm Sergio Martin 👋
+<h1 align="center">Hi there, I'm Sergio Martín 👋</h1>
 
-### 🎓 Data Science & Engineering Student
-*Passionate about statistics, optimization, and data processing.*
-
-[cite_start]I am a Data Science student at **Universidad Carlos III de Madrid**[cite: 36, 37], currently expanding my skills in Deep Learning and Business Intelligence. [cite_start]I combine technical expertise with strong soft skills like teamwork and adaptability, honed through international academic experiences[cite: 5].
-
----
-
-### 🛠 Languages and Tools
-
-* [cite_start]**Languages:** Python, R, SQL (PostgreSQL, MySQL) [cite: 25, 27, 28]
-* [cite_start]**Machine & Deep Learning:** Scikit-learn, TensorFlow, PyTorch, CNNs, RNNs [cite: 25, 26, 33]
-* [cite_start]**Data Analysis & Viz:** pandas, NumPy, Matplotlib, Seaborn, Advanced Excel [cite: 25, 30, 32]
-* [cite_start]**BI & Big Data:** MicroStrategy, SAS, Teradata [cite: 16]
-* [cite_start]**Optimization:** Linear, Non-Linear, and Integer Programming [cite: 31]
+<p align="center">
+  <em>Data Science & Engineering Student • Passionate about ML, Optimization, and Data Engineering</em>
+</p>
 
 ---
 
-### 🔭 Current Experience & Projects
+## 🎓 About Me
 
-**💼 Data & IA Consultant Intern @ EY** *(Sep 2025 - Present)*
-* [cite_start]Supporting data analytics and BI projects using MicroStrategy, SAS, and Teradata[cite: 15, 16].
-* [cite_start]Assisting in data integration, reporting automation, and model performance analysis[cite: 17].
+Soy estudiante de **Data Science and Engineering** en la **Universidad Carlos III de Madrid**.  
+Actualmente estoy ampliando mis habilidades en **Deep Learning**, **Business Intelligence**, y **procesamiento de datos**.  
 
-**🧠 Deep Learning Project @ Digital Anatomics**
-* [cite_start]Developing a Deep Learning model for osteoporosis assessment using CT scan images[cite: 18, 19].
-* [cite_start]Applying CNNs and transfer learning for automated bone density estimation[cite: 20].
+Destaco por combinar una fuerte base técnica con soft skills como trabajo en equipo, comunicación y adaptabilidad, reforzadas mediante experiencias académicas internacionales.
 
 ---
 
-### 📚 Education
+## 🛠️ Tech Stack
 
-* **Bachelor in Data Science and Engineering** | [cite_start]Universidad Carlos III de Madrid (2022 - 2026) [cite: 36]
-* **Exchange Program** | [cite_start]Victoria University of Wellington (2025) 
-    * [cite_start]*Focus:* AI, Computer Vision, and UX Engineering[cite: 41].
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-004F9F?logo=postgresql&logoColor=white" />
+</p>
+
+### **Machine & Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+### **Data Analysis & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white" />
+</p>
+
+### **BI & Big Data**
+<p>
+  <img src="https://img.shields.io/badge/MicroStrategy-C8102E?logo=microstrategy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-004B87?logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=white" />
+</p>
+
+### **Optimization**
+- Linear, Non-Linear & Integer Programming  
+- Operations Research & Mathematical Modeling
 
 ---
 
-### 📫 Connect with me
+## 🔭 Experience & Projects
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/sergio-martin-barrios](https://www.linkedin.com/in/sergio-martin-barrios-674157233) [cite: 9]
-* [cite_start]**Email:** seergiomb@gmail.com [cite: 8]
+### 💼 **Data & AI Consultant Intern @ EY**  
+**(Sep 2025 – Present)**  
+- Participación en proyectos de analítica y BI usando MicroStrategy, SAS y Teradata.  
+- Desarrollo de procesos de integración de datos y automatización de reporting.  
+- Soporte en análisis de rendimiento de modelos y preparación de datasets.
 
-<!--
-**sergiomartinb/sergiomartinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 **Deep Learning Project @ Digital Anatomics**
+- Desarrollo de un modelo de **Deep Learning** para la evaluación de osteoporosis a partir de imágenes CT.  
+- Uso de **CNNs** y **Transfer Learning** para estimación automatizada de densidad ósea.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Education
+
+🎓 **Bachelor in Data Science and Engineering**  
+**Universidad Carlos III de Madrid (2022–2026)**  
+
+🌏 **Exchange Program**  
+**Victoria University of Wellington (2025)**  
+**Focus:** AI, Computer Vision & UX Engineering  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sergio-martin-barrios-674157233/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio Martín-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seergiomb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-seergiomb%40gmail.com-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! 🚀</em>
+</p>
