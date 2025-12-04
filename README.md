@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sergio Martín 👋</h1>
+<h1 align="center">Sergio Martin Brrios</h1>
 
 <p align="center">
   <em>Data Science & Engineering Student • Machine Learning • Optimization • Data Engineering</em>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 I'm a **Data Science and Engineering** student at **Universidad Carlos III de Madrid**.  
 I’m currently focusing on **Deep Learning**, **Data Engineering**, and **scalable data processing**.
@@ -15,7 +15,7 @@ I combine strong technical skills with teamwork, communication, and adaptability
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 <p>
@@ -65,26 +65,26 @@ I combine strong technical skills with teamwork, communication, and adaptability
 
 ---
 
-## 🔭 Experience & Projects
+## Experience & Projects
 
-### 💼 **Data & AI Consultant Intern @ EY**  
+### **Data & AI Consultant Intern @ EY**  
 **(Sep 2025 – Present)**  
 - Supporting analytics and BI projects using MicroStrategy, SAS, and Teradata.  
 - Building automated reporting and data integration pipelines.  
 - Performing model monitoring and performance analysis.
 
-### 🧠 **Deep Learning Project @ Digital Anatomics**
+### **Deep Learning Project @ Digital Anatomics**
 - Developing a DL model for osteoporosis assessment using CT scans.  
 - Applying CNNs & transfer learning for bone density estimation.
 
 ---
 
-## 📚 Education
+## Education
 
-🎓 **Bachelor in Data Science and Engineering**  
+ **Bachelor in Data Science and Engineering**  
 **Universidad Carlos III de Madrid (2022–2026)**  
 
-🌏 **Exchange Program – Victoria University of Wellington (2025)**  
+ **Exchange Program – Victoria University of Wellington (2025)**  
 **Focus:** AI, Computer Vision, UX Engineering  
 
 ---
